@@ -8,7 +8,7 @@ This tutorial assumes you've completed the [Using Struts 2 Tags](using-tags.html
 
 ### Introduction
 
-Coding a Struts 2 Action involves several parts:
+编写一个Struts 2 Action 包含如下部分:
 
 1. Mapping an action to a class
 2. Mapping a result to a view
