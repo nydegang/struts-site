@@ -8,7 +8,7 @@ The example code for this tutorial, http_session, is available at [https://githu
 
 __Introduction__
 
-Your Struts 2 application may need to access the HTTP session object. Struts 2 provides an interface, [SessionAware](https://struts.apache.org/maven/struts2-core/apidocs/org/apache/struts2/interceptor/SessionAware.html), that your Action class should implement to obtain a reference to the HTTP session object.
+你的Struts 2 应用可能需要访问HTTP session 对象. Struts 2 提供一个接口, [SessionAware](https://struts.apache.org/maven/struts2-core/apidocs/org/apache/struts2/interceptor/SessionAware.html), that your Action class should implement to obtain a reference to the HTTP session object.
 
 The [Struts 2 user mailing list](http://struts.apache.org/mail.html) is an excellent place to get help. If you are having a problem getting the tutorial example applications to work search the Struts 2 mailing list. If you don't find an answer to your problem, post a question on the mailing list.
 
